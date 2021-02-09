@@ -22,7 +22,7 @@ class MarcoCuadroEvento extends JFrame{
 	
 	public MarcoCuadroEvento() {
 		
-		setBounds (600,300,600,400);
+		setBounds (600,200,600,400);
 		
 		add(new LaminaCuadroEvento());
 		setVisible(true);
